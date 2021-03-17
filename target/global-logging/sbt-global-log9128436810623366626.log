@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain Sieve, Some(982c3385-cebf-403b-8541-5e6689d64d58), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/allenhan/rep/capital-one-interview/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.4. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 10.091s.[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 13 s, completed Dec 15, 2020 1:31:46 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allenhan/rep/capital-one-interview/target/scala-2.13/capital-one-interview_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sieve.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/capital-one-interview/target/scala-2.13/classes/Sieve.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sieve$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/capital-one-interview/target/scala-2.13/classes/Sieve$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sieve$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/rep/capital-one-interview/target/scala-2.13/classes/Sieve$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
